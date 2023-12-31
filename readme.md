@@ -5,7 +5,7 @@ it takes the folder path from your OS and enables to make the commits to your ma
 
 **This will only work on main branch as it is a quick short script**
 
-## setup
+## Setup
 
 You will need to install the GitPython package with the command
 `pip install GitPython`
